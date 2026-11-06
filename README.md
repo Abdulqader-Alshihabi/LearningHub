@@ -1,11 +1,15 @@
 # 🎓 LearnHub — Enterprise Learning Management System (LMS)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-00c853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulqader-alshihabi.github.io/LearningHub/)
 [![React 18](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![TanStack Query](https://img.shields.io/badge/TanStack_Query-v5-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query)
+
+> 🌐 **Live Interactive Web Demo:** [https://abdulqader-alshihabi.github.io/LearningHub/](https://abdulqader-alshihabi.github.io/LearningHub/)  
+> 💡 *Features pre-configured seed data & offline fallback so you can test all features live with zero setup.*
 
 **LearnHub** is a modern, high-performance, enterprise-grade Learning Management System (LMS) engineered for scalable online education. It delivers a seamless, interactive experience for students, instructors, and administrators with course authoring, multimedia streaming, quizzes, and automated progress tracking.
 
