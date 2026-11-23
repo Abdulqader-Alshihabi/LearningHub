@@ -70,6 +70,6 @@ Building a deployable portfolio LMS introduces four subtle practical problems: e
 
 <div align="center">
 
-[Open LearnHub Live](https://abdulqader-alshihabi.github.io/LearningHub/) &nbsp;|&nbsp; [Portfolio](https://abdulqader-alshihabi.github.io/) &nbsp;|&nbsp; Built by **Abdulqader Alshihabi**
+[Open LearnHub Live](https://abdulqader-alshihabi.github.io/LearningHub/) &nbsp;|&nbsp; [Portfolio](https://abdulqader-alshihabi.github.io/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abdulqader-alshihabi-859b19260/) &nbsp;|&nbsp; Built by **Abdulqader Alshihabi**
 
 </div>
